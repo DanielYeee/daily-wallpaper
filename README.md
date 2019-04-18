@@ -1,2 +1,2 @@
-# daily-wallpaper
-all of the wallpaper made by silk app
+# daily_thought
+share my thought of daily
